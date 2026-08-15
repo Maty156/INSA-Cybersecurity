@@ -1,0 +1,5 @@
+# Large instructor-provided reference material (keep locally, don't commit)
+Resources/*.pdf
+Resources/*.pptx
+Resources/*.html
+!Resources/README.md
